@@ -1,0 +1,101 @@
+id,title,author,location
+1,To Kill a Mockingbird,Harper Lee,Springfield
+2,1984,George Orwell,Hill Valley
+3,The Great Gatsby,F. Scott Fitzgerald,Quahog
+4,The Catcher in the Rye,J.D. Salinger,Springfield
+5,Moby Dick,Herman Melville,Hill Valley
+6,Pride and Prejudice,Jane Austen,Quahog
+7,The Hobbit,J.R.R. Tolkien,Springfield
+8,War and Peace,Leo Tolstoy,Hill Valley
+9,Jane Eyre,Charlotte Brontë,Quahog
+10,The Lord of the Rings,J.R.R. Tolkien,Springfield
+11,Animal Farm,George Orwell,Hill Valley
+12,The Odyssey,Homer,Quahog
+13,Crime and Punishment,Fyodor Dostoevsky,Springfield
+14,Brave New World,Aldous Huxley,Hill Valley
+15,Wuthering Heights,Emily Brontë,Quahog
+16,Les Misérables,Victor Hugo,Springfield
+17,The Brothers Karamazov,Fyodor Dostoevsky,Hill Valley
+18,Dracula,Bram Stoker,Quahog
+19,Frankenstein,Mary Shelley,Springfield
+20,The Divine Comedy,Dante Alighieri,Hill Valley
+21,The Iliad,Homer,Quahog
+22,A Tale of Two Cities,Charles Dickens,Springfield
+23,Don Quixote,Miguel de Cervantes,Hill Valley
+24,The Picture of Dorian Gray,Oscar Wilde,Quahog
+25,The Alchemist,Paulo Coelho,Springfield
+26,The Stranger,Albert Camus,Hill Valley
+27,One Hundred Years of Solitude,Gabriel García Márquez,Quahog
+28,The Sound and the Fury,William Faulkner,Springfield
+29,Great Expectations,Charles Dickens,Hill Valley
+30,The Count of Monte Cristo,Alexandre Dumas,Quahog
+31,The Old Man and the Sea,Ernest Hemingway,Springfield
+32,The Sun Also Rises,Ernest Hemingway,Hill Valley
+33,Fahrenheit 451,Ray Bradbury,Quahog
+34,The Metamorphosis,Franz Kafka,Springfield
+35,Heart of Darkness,Joseph Conrad,Hill Valley
+36,The Call of the Wild,Jack London,Quahog
+37,Slaughterhouse-Five,Kurt Vonnegut,Springfield
+38,East of Eden,John Steinbeck,Hill Valley
+39,Of Mice and Men,John Steinbeck,Quahog
+40,Gone with the Wind,Margaret Mitchell,Springfield
+41,The Grapes of Wrath,John Steinbeck,Hill Valley
+42,Catch-22,Joseph Heller,Quahog
+43,The Scarlet Letter,Nathaniel Hawthorne,Springfield
+44,Little Women,Louisa May Alcott,Hill Valley
+45,A Farewell to Arms,Ernest Hemingway,Quahog
+46,Beloved,Toni Morrison,Springfield
+47,Song of Solomon,Toni Morrison,Hill Valley
+48,Middlesex,Jeffrey Eugenides,Quahog
+49,The Bell Jar,Sylvia Plath,Springfield
+50,Their Eyes Were Watching God,Zora Neale Hurston,Hill Valley
+51,The Road,Cormac McCarthy,Quahog
+52,Blood Meridian,Cormac McCarthy,Springfield
+53,The Poisonwood Bible,Barbara Kingsolver,Hill Valley
+54,The Secret Garden,Frances Hodgson Burnett,Quahog
+55,Rebecca,Daphne du Maurier,Springfield
+56,The Time Machine,H.G. Wells,Hill Valley
+57,The War of the Worlds,H.G. Wells,Quahog
+58,The Invisible Man,H.G. Wells,Springfield
+59,Persuasion,Jane Austen,Hill Valley
+60,Northanger Abbey,Jane Austen,Quahog
+61,Sense and Sensibility,Jane Austen,Springfield
+62,Emma,Jane Austen,Hill Valley
+63,Lord of the Flies,William Golding,Quahog
+64,The Outsiders,S.E. Hinton,Springfield
+65,Island,Aldous Huxley,Hill Valley
+66,Brave New World Revisited,Aldous Huxley,Quahog
+67,Dune,Frank Herbert,Springfield
+68,Children of Dune,Frank Herbert,Hill Valley
+69,God Emperor of Dune,Frank Herbert,Quahog
+70,Neuromancer,William Gibson,Springfield
+71,Pattern Recognition,William Gibson,Hill Valley
+72,Count Zero,William Gibson,Quahog
+73,Do Androids Dream of Electric Sheep?,Philip K. Dick,Springfield
+74,A Scanner Darkly,Philip K. Dick,Hill Valley
+75,Ubik,Philip K. Dick,Quahog
+76,The Man in the High Castle,Philip K. Dick,Springfield
+77,Flow My Tears, the Policeman Said,Philip K. Dick,Hill Valley
+78,VALIS,Philip K. Dick,Quahog
+79,The Trial,Franz Kafka,Springfield
+80,America,Franz Kafka,Hill Valley
+81,The Castle,Franz Kafka,Quahog
+82,The Death of Ivan Ilyich,Leo Tolstoy,Springfield
+83,The Kreutzer Sonata,Leo Tolstoy,Hill Valley
+84,The Cossacks,Leo Tolstoy,Quahog
+85,Anna Karenina,Leo Tolstoy,Springfield
+86,Resurrection,Leo Tolstoy,Hill Valley
+87,The Idiot,Fyodor Dostoevsky,Quahog
+88,Notes from Underground,Fyodor Dostoevsky,Springfield
+89,The Gambler,Fyodor Dostoevsky,Hill Valley
+90,The Double,Fyodor Dostoevsky,Quahog
+91,Nana,Émile Zola,Springfield
+92,Germinal,Émile Zola,Hill Valley
+93,The Masterpiece,Émile Zola,Quahog
+94,L'Assommoir,Émile Zola,Springfield
+95,Thérèse Raquin,Émile Zola,Hill Valley
+96,Madame Bovary,Gustave Flaubert,Quahog
+97,Sentimental Education,Gustave Flaubert,Springfield
+98,Salammbô,Gustave Flaubert,Hill Valley
+99,Bouvard and Pécuchet,Gustave Flaubert,Quahog
+100,The Temptation of Saint Anthony,Gustave Flaubert,Springfield
