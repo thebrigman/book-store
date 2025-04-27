@@ -1,1 +1,1001 @@
-id,title,location,author
+id,title,author,location
+1,The Road,Cormac McCarthy,Quahog
+2,Les Misérables,Nathaniel Hawthorne,Springfield
+3,The Importance of Being Earnest,Mary Shelley,Quahog
+4,The Three Musketeers,Leo Tolstoy,Springfield
+5,Bouvard and Pécuchet,Barbara Kingsolver,Hill Valley
+6,The Man in the Iron Mask,J.R.R. Tolkien,Springfield
+7,1984,Dante Alighieri,Quahog
+8,The Catcher in the Rye,Victor Hugo,Quahog
+9,The Call of the Wild,Charles Dickens,Springfield
+10,Agnes Grey,Charlotte Brontë,Hill Valley
+11,The Alchemist,John Steinbeck,Hill Valley
+12,Daisy Miller,Victor Hugo,Springfield
+13,Treasure Island,Albert Camus,Hill Valley
+14,The Call of the Wild,Margaret Mitchell,Quahog
+15,The Alchemist,Aldous Huxley,Quahog
+16,The Count of Monte Cristo,Albert Camus,Springfield
+17,A Tale of Two Cities,Alexandre Dumas,Hill Valley
+18,Robinson Crusoe,F. Scott Fitzgerald,Quahog
+19,Lord of the Flies,Miguel de Cervantes,Springfield
+20,Les Enfants Terribles,Herman Melville,Quahog
+21,Journey to the Center of the Earth,Aldous Huxley,Springfield
+22,Neuromancer,Ursula K. Le Guin,Springfield
+23,Don Quixote,Aldous Huxley,Springfield
+24,To Kill a Mockingbird,Emily Brontë,Springfield
+25,Blood Meridian,Frank Herbert,Springfield
+26,Les Enfants Terribles,Robert Louis Stevenson,Quahog
+27,Lord of the Flies,Paulo Coelho,Quahog
+28,Wuthering Heights,Homer,Hill Valley
+29,Blood Meridian,Louisa May Alcott,Quahog
+30,The Man in the Iron Mask,Albert Camus,Hill Valley
+31,The Divine Comedy,Homer,Springfield
+32,Gone with the Wind,George Orwell,Springfield
+33,To Kill a Mockingbird,Homer,Quahog
+34,The Brothers Karamazov,Cormac McCarthy,Hill Valley
+35,Madame Bovary,Frank Herbert,Hill Valley
+36,The Picture of Dorian Gray,Mary Shelley,Springfield
+37,Blood Meridian,Joseph Heller,Springfield
+38,Twenty Thousand Leagues Under the Sea,William Golding,Quahog
+39,To Kill a Mockingbird,Harper Lee,Quahog
+40,Song of Solomon,Philip K. Dick,Springfield
+41,The Count of Monte Cristo,Miguel de Cervantes,Springfield
+42,The Masterpiece,Dante Alighieri,Springfield
+43,Agnes Grey,George Orwell,Quahog
+44,Northanger Abbey,Bram Stoker,Hill Valley
+45,The Grapes of Wrath,Charles Dickens,Springfield
+46,Do Androids Dream of Electric Sheep?,Jane Austen,Springfield
+47,Around the World in 80 Days,Homer,Hill Valley
+48,The Idiot,Barbara Kingsolver,Springfield
+49,The Call of the Wild,Kurt Vonnegut,Quahog
+50,Great Expectations,Harper Lee,Quahog
+51,The Brothers Karamazov,Philip K. Dick,Hill Valley
+52,A Scanner Darkly,Ursula K. Le Guin,Springfield
+53,The Divine Comedy,William Golding,Quahog
+54,The Professor,J.R.R. Tolkien,Quahog
+55,Gone with the Wind,Gabriel García Márquez,Hill Valley
+56,Lord of the Flies,John Steinbeck,Springfield
+57,The Invisible Man,Herman Melville,Springfield
+58,The Old Man and the Sea,George Orwell,Springfield
+59,Fahrenheit 451,Homer,Quahog
+60,Gone with the Wind,Aldous Huxley,Springfield
+61,Les Misérables,Leo Tolstoy,Hill Valley
+62,Robinson Crusoe,Herman Melville,Springfield
+63,The War of the Worlds,Zora Neale Hurston,Hill Valley
+64,The Grapes of Wrath,Stephen Crane,Hill Valley
+65,The Hunchback of Notre-Dame,Robert Louis Stevenson,Springfield
+66,Sense and Sensibility,Albert Camus,Hill Valley
+67,Rebecca,Ernest Hemingway,Hill Valley
+68,1984,Aldous Huxley,Hill Valley
+69,Villette,Bram Stoker,Springfield
+70,The Time Machine,Herman Melville,Springfield
+71,White Fang,Cormac McCarthy,Hill Valley
+72,The Great Gatsby,Charlotte Brontë,Springfield
+73,The Picture of Dorian Gray,H.G. Wells,Hill Valley
+74,Pride and Prejudice,William Faulkner,Springfield
+75,Gone with the Wind,Homer,Springfield
+76,Dracula,Leo Tolstoy,Quahog
+77,Brave New World,Miguel de Cervantes,Springfield
+78,Germinal,Herman Melville,Springfield
+79,A Tale of Two Cities,Bram Stoker,Springfield
+80,L'Assommoir,Cormac McCarthy,Hill Valley
+81,The Professor,Paulo Coelho,Quahog
+82,A Tale of Two Cities,Gabriel García Márquez,Hill Valley
+83,Dracula,Victor Hugo,Quahog
+84,Fahrenheit 451,Aldous Huxley,Quahog
+85,Moby Dick,Frances Hodgson Burnett,Hill Valley
+86,The Man in the Iron Mask,Victor Hugo,Hill Valley
+87,The Lord of the Rings,Robert Louis Stevenson,Springfield
+88,The Idiot,Charlotte Brontë,Springfield
+89,The Road,J.D. Salinger,Springfield
+90,Notes from Underground,William Faulkner,Hill Valley
+91,The Phantom of the Opera,Bram Stoker,Hill Valley
+92,Fahrenheit 451,Charlotte Brontë,Quahog
+93,Les Enfants Terribles,Bram Stoker,Quahog
+94,Slaughterhouse-Five,Louisa May Alcott,Springfield
+95,Les Misérables,Emily Brontë,Hill Valley
+96,The Outsiders,Oscar Wilde,Quahog
+97,The Man in the Iron Mask,Frances Hodgson Burnett,Hill Valley
+98,The Man in the Iron Mask,Louisa May Alcott,Quahog
+99,Great Expectations,George Orwell,Springfield
+100,The Bell Jar,Herman Melville,Quahog
+101,Madame Bovary,Stephen Crane,Quahog
+102,Slaughterhouse-Five,Homer,Springfield
+103,Moby Dick,Frank Herbert,Quahog
+104,Notes from Underground,William Golding,Springfield
+105,The Hobbit,William Gibson,Hill Valley
+106,Lord of the Flies,William Faulkner,Springfield
+107,The War of the Worlds,Fyodor Dostoevsky,Hill Valley
+108,Brave New World,Mary Shelley,Springfield
+109,Song of Solomon,Alexandre Dumas,Hill Valley
+110,The Hunchback of Notre-Dame,William Faulkner,Hill Valley
+111,Blood Meridian,Gabriel García Márquez,Quahog
+112,Crime and Punishment,William Gibson,Hill Valley
+113,Neuromancer,Homer,Hill Valley
+114,Journey to the Center of the Earth,Frank Herbert,Quahog
+115,A Scanner Darkly,Robert Louis Stevenson,Hill Valley
+116,The Invisible Man,George Orwell,Quahog
+117,Persuasion,H.G. Wells,Quahog
+118,Persuasion,John Steinbeck,Springfield
+119,The Red Badge of Courage,Toni Morrison,Hill Valley
+120,Madame Bovary,Ursula K. Le Guin,Springfield
+121,The Grapes of Wrath,Robert Louis Stevenson,Hill Valley
+122,Wuthering Heights,F. Scott Fitzgerald,Quahog
+123,The Hunchback of Notre-Dame,Albert Camus,Quahog
+124,Crime and Punishment,Oscar Wilde,Hill Valley
+125,Around the World in 80 Days,Daniel Defoe,Quahog
+126,The Professor,Frank Herbert,Quahog
+127,Les Misérables,George Orwell,Hill Valley
+128,Lord of the Flies,Robert Louis Stevenson,Hill Valley
+129,Villette,Albert Camus,Quahog
+130,Northanger Abbey,Sylvia Plath,Springfield
+131,Persuasion,H.G. Wells,Hill Valley
+132,Brave New World,William Gibson,Hill Valley
+133,Sentimental Education,Gabriel García Márquez,Hill Valley
+134,A Scanner Darkly,Philip K. Dick,Hill Valley
+135,The Man in the Iron Mask,Ray Bradbury,Springfield
+136,Treasure Island,Oscar Wilde,Quahog
+137,The Call of the Wild,Ernest Hemingway,Springfield
+138,The Time Machine,Oscar Wilde,Quahog
+139,Catch-22,Toni Morrison,Springfield
+140,Don Quixote,Robert Louis Stevenson,Quahog
+141,Do Androids Dream of Electric Sheep?,William Faulkner,Springfield
+142,The Idiot,Stephen Crane,Quahog
+143,The Castle,Cormac McCarthy,Quahog
+144,The Divine Comedy,Toni Morrison,Springfield
+145,The Scarlet Letter,Frank Herbert,Quahog
+146,Wuthering Heights,Fyodor Dostoevsky,Hill Valley
+147,L'Assommoir,Victor Hugo,Springfield
+148,The Phantom of the Opera,Barbara Kingsolver,Quahog
+149,War and Peace,Frank Herbert,Quahog
+150,One Hundred Years of Solitude,George Orwell,Quahog
+151,Slaughterhouse-Five,Harper Lee,Springfield
+152,The Sound and the Fury,William Golding,Springfield
+153,Fahrenheit 451,Herman Melville,Hill Valley
+154,The Metamorphosis,Stephen Crane,Quahog
+155,Dune,Toni Morrison,Hill Valley
+156,The Scarlet Letter,Louisa May Alcott,Quahog
+157,War and Peace,Kurt Vonnegut,Springfield
+158,The Masterpiece,Alexandre Dumas,Quahog
+159,One Hundred Years of Solitude,Herman Melville,Springfield
+160,Dune,William Golding,Springfield
+161,The Divine Comedy,Charlotte Brontë,Hill Valley
+162,The Outsiders,Leo Tolstoy,Quahog
+163,Agnes Grey,Leo Tolstoy,Springfield
+164,L'Assommoir,Mary Shelley,Hill Valley
+165,The Man in the Iron Mask,Oscar Wilde,Hill Valley
+166,War and Peace,William Golding,Springfield
+167,Dune,Emily Brontë,Springfield
+168,The Scarlet Letter,Robert Louis Stevenson,Quahog
+169,Neuromancer,Herman Melville,Hill Valley
+170,Anna Karenina,Miguel de Cervantes,Quahog
+171,Les Enfants Terribles,Barbara Kingsolver,Springfield
+172,Little Women,William Faulkner,Hill Valley
+173,The Hunchback of Notre-Dame,Sylvia Plath,Quahog
+174,One Hundred Years of Solitude,Jules Verne,Quahog
+175,The Metamorphosis,Margaret Mitchell,Hill Valley
+176,Song of Solomon,William Gibson,Springfield
+177,Robinson Crusoe,Herman Melville,Hill Valley
+178,A Scanner Darkly,Philip K. Dick,Quahog
+179,Daisy Miller,Toni Morrison,Springfield
+180,Catch-22,Dante Alighieri,Springfield
+181,1984,Leo Tolstoy,Hill Valley
+182,The Stranger,Albert Camus,Quahog
+183,The Castle,Zora Neale Hurston,Hill Valley
+184,Of Mice and Men,Robert Louis Stevenson,Springfield
+185,Do Androids Dream of Electric Sheep?,Miguel de Cervantes,Quahog
+186,The Sound and the Fury,John Steinbeck,Quahog
+187,Around the World in 80 Days,Miguel de Cervantes,Springfield
+188,Lord of the Flies,Ernest Hemingway,Hill Valley
+189,Emma,Ernest Hemingway,Springfield
+190,Moby Dick,Charlotte Brontë,Springfield
+191,Island,Victor Hugo,Hill Valley
+192,Fahrenheit 451,Cormac McCarthy,Hill Valley
+193,The Hobbit,J.R.R. Tolkien,Springfield
+194,Beloved,Fyodor Dostoevsky,Springfield
+195,The Trial,Ernest Hemingway,Springfield
+196,The War of the Worlds,Sylvia Plath,Hill Valley
+197,Catch-22,Jules Verne,Quahog
+198,The Metamorphosis,Louisa May Alcott,Quahog
+199,Rebecca,J.D. Salinger,Quahog
+200,Animal Farm,Emily Brontë,Quahog
+201,Frankenstein,Zora Neale Hurston,Hill Valley
+202,The Brothers Karamazov,F. Scott Fitzgerald,Hill Valley
+203,Great Expectations,Toni Morrison,Quahog
+204,The Idiot,Frank Herbert,Hill Valley
+205,Their Eyes Were Watching God,George Orwell,Springfield
+206,Gone with the Wind,Ernest Hemingway,Springfield
+207,Twenty Thousand Leagues Under the Sea,H.G. Wells,Quahog
+208,Slaughterhouse-Five,Frank Herbert,Hill Valley
+209,The Odyssey,Zora Neale Hurston,Hill Valley
+210,The Old Man and the Sea,Emily Brontë,Quahog
+211,The Brothers Karamazov,Harper Lee,Quahog
+212,The Alchemist,Kurt Vonnegut,Hill Valley
+213,Les Enfants Terribles,J.R.R. Tolkien,Hill Valley
+214,Crime and Punishment,Leo Tolstoy,Springfield
+215,War and Peace,Leo Tolstoy,Hill Valley
+216,The Lord of the Rings,Mary Shelley,Hill Valley
+217,The Outsiders,Bram Stoker,Quahog
+218,Song of Solomon,Harper Lee,Springfield
+219,The Outsiders,George Orwell,Springfield
+220,Fahrenheit 451,Jane Austen,Hill Valley
+221,The Time Machine,George Orwell,Hill Valley
+222,Slaughterhouse-Five,Miguel de Cervantes,Quahog
+223,The Sound and the Fury,Nathaniel Hawthorne,Quahog
+224,Dune,John Steinbeck,Springfield
+225,The Importance of Being Earnest,Fyodor Dostoevsky,Hill Valley
+226,The Scarlet Letter,Charles Dickens,Hill Valley
+227,The Hobbit,Frank Herbert,Hill Valley
+228,The Secret Garden,Frances Hodgson Burnett,Springfield
+229,Villette,Philip K. Dick,Hill Valley
+230,East of Eden,Mary Shelley,Hill Valley
+231,Moby Dick,Charles Dickens,Hill Valley
+232,Dune,Paulo Coelho,Hill Valley
+233,Dracula,Louisa May Alcott,Hill Valley
+234,One Hundred Years of Solitude,Sylvia Plath,Springfield
+235,The Picture of Dorian Gray,Dante Alighieri,Quahog
+236,The Outsiders,Cormac McCarthy,Springfield
+237,The Secret Garden,Zora Neale Hurston,Quahog
+238,The Secret Garden,Leo Tolstoy,Hill Valley
+239,Sense and Sensibility,Miguel de Cervantes,Quahog
+240,A Scanner Darkly,Philip K. Dick,Hill Valley
+241,Sentimental Education,J.R.R. Tolkien,Springfield
+242,Slaughterhouse-Five,Harper Lee,Quahog
+243,The Scarlet Letter,Mary Shelley,Springfield
+244,The Three Musketeers,Herman Melville,Quahog
+245,Les Misérables,F. Scott Fitzgerald,Springfield
+246,Neuromancer,Albert Camus,Quahog
+247,Twenty Thousand Leagues Under the Sea,Bram Stoker,Springfield
+248,The Secret Garden,Louisa May Alcott,Hill Valley
+249,The Outsiders,Cormac McCarthy,Hill Valley
+250,Sentimental Education,Nathaniel Hawthorne,Springfield
+251,Pride and Prejudice,Albert Camus,Springfield
+252,Villette,Ray Bradbury,Hill Valley
+253,Slaughterhouse-Five,Leo Tolstoy,Springfield
+254,Rebecca,Fyodor Dostoevsky,Springfield
+255,The Metamorphosis,Joseph Heller,Springfield
+256,The Metamorphosis,J.D. Salinger,Quahog
+257,Rebecca,Emily Brontë,Springfield
+258,The Lord of the Rings,George Orwell,Hill Valley
+259,The Three Musketeers,Fyodor Dostoevsky,Hill Valley
+260,Rebecca,Paulo Coelho,Springfield
+261,Villette,George Orwell,Quahog
+262,The Red Badge of Courage,Herman Melville,Quahog
+263,Nana,Barbara Kingsolver,Quahog
+264,The Hobbit,Alexandre Dumas,Springfield
+265,A Scanner Darkly,Frances Hodgson Burnett,Quahog
+266,Madame Bovary,John Steinbeck,Hill Valley
+267,The Catcher in the Rye,William Gibson,Springfield
+268,The Odyssey,Bram Stoker,Hill Valley
+269,The Stranger,Margaret Mitchell,Springfield
+270,The Brothers Karamazov,Sylvia Plath,Springfield
+271,Dune,Paulo Coelho,Hill Valley
+272,Les Enfants Terribles,Harper Lee,Hill Valley
+273,One Hundred Years of Solitude,Daniel Defoe,Springfield
+274,The Trial,Kurt Vonnegut,Quahog
+275,Animal Farm,Harper Lee,Quahog
+276,Dracula,Miguel de Cervantes,Hill Valley
+277,Les Enfants Terribles,Alexandre Dumas,Springfield
+278,The Picture of Dorian Gray,George Orwell,Quahog
+279,Dracula,Oscar Wilde,Hill Valley
+280,Twenty Thousand Leagues Under the Sea,William Golding,Quahog
+281,Rebecca,Jane Austen,Hill Valley
+282,Beloved,Charlotte Brontë,Quahog
+283,To Kill a Mockingbird,John Steinbeck,Hill Valley
+284,Journey to the Center of the Earth,Joseph Heller,Quahog
+285,Pride and Prejudice,Charlotte Brontë,Springfield
+286,The Catcher in the Rye,John Steinbeck,Hill Valley
+287,Moby Dick,Harper Lee,Hill Valley
+288,Gone with the Wind,George Orwell,Quahog
+289,Blood Meridian,Dante Alighieri,Hill Valley
+290,The Great Gatsby,Aldous Huxley,Springfield
+291,A Tale of Two Cities,Miguel de Cervantes,Hill Valley
+292,The Alchemist,Ray Bradbury,Hill Valley
+293,The War of the Worlds,Miguel de Cervantes,Hill Valley
+294,Moby Dick,Jules Verne,Hill Valley
+295,Germinal,Frances Hodgson Burnett,Springfield
+296,Villette,Miguel de Cervantes,Quahog
+297,The Time Machine,Toni Morrison,Springfield
+298,Of Mice and Men,John Steinbeck,Springfield
+299,East of Eden,George Orwell,Springfield
+300,The Divine Comedy,Kurt Vonnegut,Springfield
+301,A Tale of Two Cities,Homer,Hill Valley
+302,The Idiot,Alexandre Dumas,Hill Valley
+303,Do Androids Dream of Electric Sheep?,F. Scott Fitzgerald,Hill Valley
+304,Neuromancer,Daniel Defoe,Springfield
+305,Anna Karenina,Sylvia Plath,Quahog
+306,The Lord of the Rings,Harper Lee,Springfield
+307,The Lord of the Rings,Kurt Vonnegut,Quahog
+308,Les Enfants Terribles,Homer,Quahog
+309,The Catcher in the Rye,Paulo Coelho,Springfield
+310,Northanger Abbey,Victor Hugo,Hill Valley
+311,Les Enfants Terribles,Bram Stoker,Springfield
+312,Dracula,Albert Camus,Springfield
+313,Slaughterhouse-Five,Margaret Mitchell,Quahog
+314,The Brothers Karamazov,Oscar Wilde,Hill Valley
+315,The Hobbit,Gabriel García Márquez,Springfield
+316,Madame Bovary,Oscar Wilde,Hill Valley
+317,Sense and Sensibility,Barbara Kingsolver,Springfield
+318,Wuthering Heights,Herman Melville,Quahog
+319,The Metamorphosis,H.G. Wells,Hill Valley
+320,The Sound and the Fury,George Orwell,Springfield
+321,The Divine Comedy,Dante Alighieri,Springfield
+322,The Invisible Man,Dante Alighieri,Springfield
+323,Nana,Barbara Kingsolver,Springfield
+324,The Call of the Wild,H.G. Wells,Quahog
+325,The Importance of Being Earnest,Frances Hodgson Burnett,Springfield
+326,Journey to the Center of the Earth,Leo Tolstoy,Quahog
+327,Their Eyes Were Watching God,F. Scott Fitzgerald,Quahog
+328,The Time Machine,Charles Dickens,Quahog
+329,To Kill a Mockingbird,Oscar Wilde,Quahog
+330,Bouvard and Pécuchet,Robert Louis Stevenson,Springfield
+331,The Red Badge of Courage,Daniel Defoe,Quahog
+332,1984,Dante Alighieri,Hill Valley
+333,The Picture of Dorian Gray,John Steinbeck,Springfield
+334,Northanger Abbey,Nathaniel Hawthorne,Hill Valley
+335,Emma,Sylvia Plath,Hill Valley
+336,The Stranger,Charlotte Brontë,Springfield
+337,Animal Farm,Cormac McCarthy,Hill Valley
+338,The Hobbit,Margaret Mitchell,Springfield
+339,L'Assommoir,Kurt Vonnegut,Springfield
+340,The Scarlet Letter,Albert Camus,Quahog
+341,Anna Karenina,Cormac McCarthy,Hill Valley
+342,The Invisible Man,Kurt Vonnegut,Quahog
+343,The Sound and the Fury,Barbara Kingsolver,Quahog
+344,Notes from Underground,George Orwell,Quahog
+345,The Alchemist,Barbara Kingsolver,Hill Valley
+346,The Picture of Dorian Gray,Nathaniel Hawthorne,Springfield
+347,The Stranger,Cormac McCarthy,Hill Valley
+348,Brave New World,Victor Hugo,Hill Valley
+349,East of Eden,John Steinbeck,Quahog
+350,Crime and Punishment,William Golding,Springfield
+351,The Outsiders,Frank Herbert,Springfield
+352,The Catcher in the Rye,Jules Verne,Hill Valley
+353,Animal Farm,George Orwell,Springfield
+354,Blood Meridian,Gabriel García Márquez,Springfield
+355,Daisy Miller,Daniel Defoe,Hill Valley
+356,The Phantom of the Opera,Dante Alighieri,Quahog
+357,To Kill a Mockingbird,Mary Shelley,Quahog
+358,Crime and Punishment,Philip K. Dick,Hill Valley
+359,Lord of the Flies,William Golding,Springfield
+360,The Metamorphosis,Barbara Kingsolver,Springfield
+361,Catch-22,Stephen Crane,Quahog
+362,Fahrenheit 451,Harper Lee,Hill Valley
+363,Treasure Island,Philip K. Dick,Springfield
+364,L'Assommoir,Kurt Vonnegut,Quahog
+365,The Masterpiece,Gabriel García Márquez,Springfield
+366,Germinal,Sylvia Plath,Springfield
+367,Song of Solomon,Ray Bradbury,Quahog
+368,Sentimental Education,Daniel Defoe,Springfield
+369,A Scanner Darkly,Cormac McCarthy,Hill Valley
+370,The Call of the Wild,Ernest Hemingway,Hill Valley
+371,East of Eden,Ray Bradbury,Quahog
+372,East of Eden,Albert Camus,Quahog
+373,Sense and Sensibility,Gabriel García Márquez,Hill Valley
+374,East of Eden,Robert Louis Stevenson,Quahog
+375,White Fang,Albert Camus,Quahog
+376,Blood Meridian,Harper Lee,Springfield
+377,A Tale of Two Cities,Margaret Mitchell,Hill Valley
+378,The Scarlet Letter,Mary Shelley,Quahog
+379,The War of the Worlds,Charles Dickens,Quahog
+380,The Phantom of the Opera,Paulo Coelho,Hill Valley
+381,Journey to the Center of the Earth,Gabriel García Márquez,Quahog
+382,The Metamorphosis,Fyodor Dostoevsky,Quahog
+383,The Secret Garden,Charlotte Brontë,Springfield
+384,Island,Victor Hugo,Springfield
+385,The Catcher in the Rye,Ursula K. Le Guin,Quahog
+386,Of Mice and Men,Toni Morrison,Hill Valley
+387,The Metamorphosis,Dante Alighieri,Springfield
+388,The Castle,F. Scott Fitzgerald,Hill Valley
+389,Pride and Prejudice,Emily Brontë,Quahog
+390,The Professor,Leo Tolstoy,Hill Valley
+391,The Road,Louisa May Alcott,Quahog
+392,Crime and Punishment,H.G. Wells,Springfield
+393,The Old Man and the Sea,Joseph Heller,Springfield
+394,The Bell Jar,Oscar Wilde,Springfield
+395,Agnes Grey,Philip K. Dick,Hill Valley
+396,Heart of Darkness,Nathaniel Hawthorne,Hill Valley
+397,1984,Charles Dickens,Hill Valley
+398,The Odyssey,Albert Camus,Quahog
+399,The Great Gatsby,Barbara Kingsolver,Springfield
+400,Madame Bovary,Ray Bradbury,Hill Valley
+401,To Kill a Mockingbird,Joseph Heller,Springfield
+402,The Idiot,Nathaniel Hawthorne,Quahog
+403,Twenty Thousand Leagues Under the Sea,Fyodor Dostoevsky,Springfield
+404,Sense and Sensibility,Oscar Wilde,Hill Valley
+405,The Outsiders,Kurt Vonnegut,Springfield
+406,The Professor,Barbara Kingsolver,Hill Valley
+407,One Hundred Years of Solitude,Stephen Crane,Quahog
+408,Catch-22,William Gibson,Springfield
+409,Neuromancer,Homer,Hill Valley
+410,Don Quixote,Toni Morrison,Springfield
+411,Sentimental Education,Harper Lee,Quahog
+412,Villette,Mary Shelley,Hill Valley
+413,The Three Musketeers,Albert Camus,Quahog
+414,Dracula,Leo Tolstoy,Hill Valley
+415,The Lord of the Rings,Ray Bradbury,Quahog
+416,Their Eyes Were Watching God,Fyodor Dostoevsky,Springfield
+417,Song of Solomon,Ernest Hemingway,Quahog
+418,The War of the Worlds,John Steinbeck,Hill Valley
+419,Mansfield Park,Charles Dickens,Hill Valley
+420,Germinal,Gabriel García Márquez,Quahog
+421,The Odyssey,George Orwell,Hill Valley
+422,Treasure Island,Gabriel García Márquez,Hill Valley
+423,The Invisible Man,William Gibson,Hill Valley
+424,Madame Bovary,Albert Camus,Quahog
+425,The Masterpiece,Ray Bradbury,Quahog
+426,Rebecca,F. Scott Fitzgerald,Quahog
+427,Do Androids Dream of Electric Sheep?,Victor Hugo,Hill Valley
+428,Twenty Thousand Leagues Under the Sea,Alexandre Dumas,Springfield
+429,The Idiot,Charlotte Brontë,Hill Valley
+430,The Grapes of Wrath,Charlotte Brontë,Springfield
+431,Les Enfants Terribles,Joseph Heller,Hill Valley
+432,The Brothers Karamazov,Victor Hugo,Hill Valley
+433,Mansfield Park,John Steinbeck,Springfield
+434,The Alchemist,Bram Stoker,Quahog
+435,Les Misérables,Harper Lee,Quahog
+436,L'Assommoir,George Orwell,Quahog
+437,Sentimental Education,Jules Verne,Springfield
+438,Bouvard and Pécuchet,Stephen Crane,Springfield
+439,Little Women,Herman Melville,Hill Valley
+440,The Bell Jar,Victor Hugo,Quahog
+441,Great Expectations,Frank Herbert,Springfield
+442,Neuromancer,Stephen Crane,Quahog
+443,Crime and Punishment,William Gibson,Hill Valley
+444,The Road,Margaret Mitchell,Hill Valley
+445,Twenty Thousand Leagues Under the Sea,Herman Melville,Quahog
+446,Island,William Gibson,Quahog
+447,The Scarlet Letter,John Steinbeck,Quahog
+448,Animal Farm,Sylvia Plath,Quahog
+449,Lord of the Flies,Frank Herbert,Quahog
+450,Song of Solomon,Kurt Vonnegut,Quahog
+451,Wuthering Heights,John Steinbeck,Springfield
+452,Treasure Island,Cormac McCarthy,Quahog
+453,A Tale of Two Cities,Gabriel García Márquez,Hill Valley
+454,Their Eyes Were Watching God,Stephen Crane,Springfield
+455,Brave New World,Ursula K. Le Guin,Springfield
+456,The Time Machine,George Orwell,Hill Valley
+457,Slaughterhouse-Five,Aldous Huxley,Hill Valley
+458,The Brothers Karamazov,Charles Dickens,Hill Valley
+459,Northanger Abbey,George Orwell,Hill Valley
+460,The Outsiders,Philip K. Dick,Hill Valley
+461,Island,Ernest Hemingway,Quahog
+462,Madame Bovary,Philip K. Dick,Springfield
+463,Bouvard and Pécuchet,H.G. Wells,Quahog
+464,Do Androids Dream of Electric Sheep?,John Steinbeck,Quahog
+465,Sentimental Education,Stephen Crane,Hill Valley
+466,Persuasion,Oscar Wilde,Quahog
+467,Bouvard and Pécuchet,Charlotte Brontë,Springfield
+468,L'Assommoir,Harper Lee,Hill Valley
+469,Germinal,H.G. Wells,Hill Valley
+470,Song of Solomon,Bram Stoker,Quahog
+471,Little Women,William Faulkner,Hill Valley
+472,Heart of Darkness,Ernest Hemingway,Quahog
+473,The Professor,Charles Dickens,Hill Valley
+474,The Road,Homer,Springfield
+475,Wuthering Heights,Emily Brontë,Springfield
+476,A Tale of Two Cities,Harper Lee,Springfield
+477,Little Women,George Orwell,Quahog
+478,Brave New World,Zora Neale Hurston,Springfield
+479,War and Peace,Jane Austen,Quahog
+480,East of Eden,Stephen Crane,Quahog
+481,Little Women,Emily Brontë,Hill Valley
+482,East of Eden,George Orwell,Springfield
+483,The Hunchback of Notre-Dame,Charlotte Brontë,Hill Valley
+484,Their Eyes Were Watching God,Robert Louis Stevenson,Springfield
+485,Journey to the Center of the Earth,Oscar Wilde,Quahog
+486,The Picture of Dorian Gray,George Orwell,Springfield
+487,Treasure Island,William Faulkner,Quahog
+488,The Grapes of Wrath,Frances Hodgson Burnett,Hill Valley
+489,Do Androids Dream of Electric Sheep?,Fyodor Dostoevsky,Quahog
+490,Robinson Crusoe,Joseph Heller,Hill Valley
+491,The Picture of Dorian Gray,Fyodor Dostoevsky,Quahog
+492,The Secret Garden,Frances Hodgson Burnett,Quahog
+493,Madame Bovary,William Golding,Springfield
+494,The Old Man and the Sea,Charlotte Brontë,Quahog
+495,The Bell Jar,Barbara Kingsolver,Quahog
+496,Les Misérables,William Golding,Hill Valley
+497,Emma,Albert Camus,Springfield
+498,Great Expectations,Fyodor Dostoevsky,Springfield
+499,Island,Harper Lee,Springfield
+500,Madame Bovary,Frances Hodgson Burnett,Quahog
+501,Sense and Sensibility,William Golding,Quahog
+502,Agnes Grey,Sylvia Plath,Springfield
+503,The Great Gatsby,George Orwell,Springfield
+504,The Lord of the Rings,George Orwell,Springfield
+505,One Hundred Years of Solitude,Harper Lee,Quahog
+506,The Secret Garden,Aldous Huxley,Hill Valley
+507,Mansfield Park,Philip K. Dick,Springfield
+508,Song of Solomon,Cormac McCarthy,Springfield
+509,Les Misérables,Harper Lee,Springfield
+510,Daisy Miller,William Golding,Hill Valley
+511,Island,Jane Austen,Quahog
+512,The Great Gatsby,Daniel Defoe,Hill Valley
+513,Heart of Darkness,J.D. Salinger,Hill Valley
+514,Notes from Underground,Kurt Vonnegut,Hill Valley
+515,The Sound and the Fury,Frances Hodgson Burnett,Quahog
+516,Song of Solomon,Sylvia Plath,Hill Valley
+517,Wuthering Heights,Charlotte Brontë,Springfield
+518,Little Women,Charles Dickens,Quahog
+519,Treasure Island,Kurt Vonnegut,Hill Valley
+520,Dune,Barbara Kingsolver,Quahog
+521,A Scanner Darkly,Leo Tolstoy,Quahog
+522,Les Misérables,Albert Camus,Springfield
+523,Madame Bovary,Dante Alighieri,Springfield
+524,Jane Eyre,Fyodor Dostoevsky,Springfield
+525,Agnes Grey,Paulo Coelho,Hill Valley
+526,The Divine Comedy,Miguel de Cervantes,Hill Valley
+527,The Bell Jar,Miguel de Cervantes,Quahog
+528,Germinal,George Orwell,Springfield
+529,Les Misérables,Dante Alighieri,Hill Valley
+530,Les Enfants Terribles,Miguel de Cervantes,Quahog
+531,Madame Bovary,Fyodor Dostoevsky,Hill Valley
+532,The Hunchback of Notre-Dame,Harper Lee,Springfield
+533,The Outsiders,Cormac McCarthy,Quahog
+534,Sense and Sensibility,Charlotte Brontë,Springfield
+535,Treasure Island,William Faulkner,Springfield
+536,The Man in the Iron Mask,Gabriel García Márquez,Hill Valley
+537,Beloved,J.D. Salinger,Hill Valley
+538,Dracula,Albert Camus,Quahog
+539,Little Women,Ursula K. Le Guin,Quahog
+540,Heart of Darkness,Bram Stoker,Springfield
+541,The Great Gatsby,Miguel de Cervantes,Springfield
+542,Jane Eyre,Homer,Springfield
+543,East of Eden,Herman Melville,Springfield
+544,To Kill a Mockingbird,Fyodor Dostoevsky,Springfield
+545,The Outsiders,William Golding,Springfield
+546,Sense and Sensibility,J.D. Salinger,Springfield
+547,Island,J.R.R. Tolkien,Hill Valley
+548,Moby Dick,Victor Hugo,Hill Valley
+549,Brave New World,J.D. Salinger,Springfield
+550,Dune,William Gibson,Hill Valley
+551,The Red Badge of Courage,Daniel Defoe,Springfield
+552,The Call of the Wild,Ursula K. Le Guin,Springfield
+553,The Lord of the Rings,H.G. Wells,Quahog
+554,Blood Meridian,Aldous Huxley,Springfield
+555,Fahrenheit 451,Philip K. Dick,Hill Valley
+556,War and Peace,Barbara Kingsolver,Springfield
+557,The Invisible Man,Albert Camus,Quahog
+558,The Phantom of the Opera,Albert Camus,Hill Valley
+559,Great Expectations,Joseph Heller,Quahog
+560,The Sound and the Fury,George Orwell,Hill Valley
+561,Villette,Stephen Crane,Quahog
+562,The Count of Monte Cristo,Robert Louis Stevenson,Springfield
+563,Fahrenheit 451,Stephen Crane,Quahog
+564,Wuthering Heights,J.R.R. Tolkien,Springfield
+565,The Grapes of Wrath,F. Scott Fitzgerald,Springfield
+566,Gone with the Wind,Ray Bradbury,Springfield
+567,Song of Solomon,Victor Hugo,Springfield
+568,The Odyssey,Jane Austen,Springfield
+569,Animal Farm,Nathaniel Hawthorne,Hill Valley
+570,Notes from Underground,Kurt Vonnegut,Hill Valley
+571,Moby Dick,Jules Verne,Springfield
+572,Daisy Miller,Louisa May Alcott,Quahog
+573,Dracula,Sylvia Plath,Quahog
+574,Pride and Prejudice,Nathaniel Hawthorne,Hill Valley
+575,White Fang,Albert Camus,Quahog
+576,The Catcher in the Rye,John Steinbeck,Springfield
+577,Brave New World,Emily Brontë,Hill Valley
+578,The Red Badge of Courage,Sylvia Plath,Quahog
+579,The Castle,Louisa May Alcott,Quahog
+580,Crime and Punishment,Emily Brontë,Springfield
+581,Gone with the Wind,Cormac McCarthy,Quahog
+582,Little Women,William Gibson,Springfield
+583,The Man in the Iron Mask,Cormac McCarthy,Springfield
+584,Sense and Sensibility,Nathaniel Hawthorne,Springfield
+585,Slaughterhouse-Five,Aldous Huxley,Quahog
+586,The Invisible Man,Emily Brontë,Springfield
+587,One Hundred Years of Solitude,Stephen Crane,Hill Valley
+588,Journey to the Center of the Earth,Gabriel García Márquez,Hill Valley
+589,The Road,Ray Bradbury,Springfield
+590,Agnes Grey,Emily Brontë,Springfield
+591,Don Quixote,John Steinbeck,Hill Valley
+592,Fahrenheit 451,J.D. Salinger,Hill Valley
+593,Agnes Grey,Albert Camus,Hill Valley
+594,Gone with the Wind,George Orwell,Hill Valley
+595,Anna Karenina,George Orwell,Springfield
+596,A Tale of Two Cities,William Faulkner,Springfield
+597,Around the World in 80 Days,John Steinbeck,Hill Valley
+598,The Great Gatsby,Sylvia Plath,Hill Valley
+599,The Call of the Wild,Miguel de Cervantes,Hill Valley
+600,Blood Meridian,Frances Hodgson Burnett,Quahog
+601,Little Women,Oscar Wilde,Springfield
+602,1984,Joseph Heller,Hill Valley
+603,The Sound and the Fury,Jane Austen,Springfield
+604,The Bell Jar,Emily Brontë,Quahog
+605,The Hunchback of Notre-Dame,Joseph Heller,Hill Valley
+606,Island,Dante Alighieri,Hill Valley
+607,Journey to the Center of the Earth,Frances Hodgson Burnett,Hill Valley
+608,Catch-22,Paulo Coelho,Springfield
+609,Animal Farm,Nathaniel Hawthorne,Hill Valley
+610,The Great Gatsby,Zora Neale Hurston,Quahog
+611,The Divine Comedy,Ursula K. Le Guin,Springfield
+612,The Bell Jar,Dante Alighieri,Quahog
+613,Sense and Sensibility,George Orwell,Springfield
+614,Beloved,Charlotte Brontë,Springfield
+615,Beloved,John Steinbeck,Springfield
+616,Catch-22,William Golding,Springfield
+617,Moby Dick,Barbara Kingsolver,Quahog
+618,Crime and Punishment,Frances Hodgson Burnett,Hill Valley
+619,Jane Eyre,Gabriel García Márquez,Quahog
+620,Anna Karenina,Cormac McCarthy,Hill Valley
+621,The Bell Jar,Nathaniel Hawthorne,Quahog
+622,Crime and Punishment,Paulo Coelho,Springfield
+623,Their Eyes Were Watching God,Margaret Mitchell,Springfield
+624,The Phantom of the Opera,Frances Hodgson Burnett,Hill Valley
+625,The Man in the Iron Mask,Kurt Vonnegut,Hill Valley
+626,Blood Meridian,William Faulkner,Hill Valley
+627,The Call of the Wild,William Gibson,Hill Valley
+628,Neuromancer,Charles Dickens,Springfield
+629,Sense and Sensibility,Cormac McCarthy,Springfield
+630,Fahrenheit 451,William Faulkner,Quahog
+631,L'Assommoir,John Steinbeck,Springfield
+632,One Hundred Years of Solitude,J.R.R. Tolkien,Springfield
+633,Les Misérables,Frank Herbert,Springfield
+634,The Three Musketeers,Toni Morrison,Quahog
+635,Heart of Darkness,Frank Herbert,Hill Valley
+636,Madame Bovary,F. Scott Fitzgerald,Springfield
+637,The Three Musketeers,Ray Bradbury,Hill Valley
+638,Madame Bovary,Toni Morrison,Quahog
+639,Do Androids Dream of Electric Sheep?,Charlotte Brontë,Hill Valley
+640,The Road,Louisa May Alcott,Springfield
+641,Notes from Underground,Bram Stoker,Springfield
+642,Song of Solomon,Bram Stoker,Springfield
+643,Persuasion,Joseph Heller,Quahog
+644,Little Women,Paulo Coelho,Springfield
+645,Around the World in 80 Days,Jules Verne,Springfield
+646,Agnes Grey,H.G. Wells,Hill Valley
+647,Notes from Underground,Leo Tolstoy,Quahog
+648,Notes from Underground,Kurt Vonnegut,Springfield
+649,The Hunchback of Notre-Dame,Frances Hodgson Burnett,Hill Valley
+650,The Odyssey,Jane Austen,Quahog
+651,Sentimental Education,Frances Hodgson Burnett,Hill Valley
+652,The War of the Worlds,John Steinbeck,Quahog
+653,Moby Dick,George Orwell,Hill Valley
+654,Frankenstein,Gabriel García Márquez,Hill Valley
+655,The Alchemist,Charles Dickens,Springfield
+656,The Grapes of Wrath,Aldous Huxley,Quahog
+657,Germinal,Charles Dickens,Springfield
+658,Gone with the Wind,Ursula K. Le Guin,Springfield
+659,Dracula,Daniel Defoe,Hill Valley
+660,Of Mice and Men,Paulo Coelho,Quahog
+661,The Castle,Mary Shelley,Springfield
+662,Germinal,Herman Melville,Hill Valley
+663,The Professor,Ursula K. Le Guin,Springfield
+664,Jane Eyre,George Orwell,Quahog
+665,Madame Bovary,Alexandre Dumas,Quahog
+666,The Red Badge of Courage,Fyodor Dostoevsky,Hill Valley
+667,Of Mice and Men,Emily Brontë,Hill Valley
+668,Dune,Paulo Coelho,Quahog
+669,White Fang,Nathaniel Hawthorne,Springfield
+670,The Bell Jar,Dante Alighieri,Springfield
+671,Gone with the Wind,John Steinbeck,Quahog
+672,L'Assommoir,Joseph Heller,Springfield
+673,Les Enfants Terribles,H.G. Wells,Hill Valley
+674,Blood Meridian,William Gibson,Hill Valley
+675,The Idiot,Emily Brontë,Hill Valley
+676,The Catcher in the Rye,Robert Louis Stevenson,Hill Valley
+677,The Bell Jar,Joseph Heller,Springfield
+678,Sense and Sensibility,William Golding,Hill Valley
+679,The Secret Garden,George Orwell,Springfield
+680,Robinson Crusoe,Louisa May Alcott,Quahog
+681,Persuasion,Daniel Defoe,Hill Valley
+682,Crime and Punishment,Louisa May Alcott,Quahog
+683,Crime and Punishment,Frances Hodgson Burnett,Hill Valley
+684,The Bell Jar,John Steinbeck,Hill Valley
+685,Catch-22,Charlotte Brontë,Quahog
+686,The Masterpiece,Sylvia Plath,Quahog
+687,The Three Musketeers,Jane Austen,Springfield
+688,Moby Dick,Charles Dickens,Springfield
+689,The Importance of Being Earnest,Margaret Mitchell,Quahog
+690,Gone with the Wind,Ernest Hemingway,Quahog
+691,The Road,Homer,Hill Valley
+692,Treasure Island,Kurt Vonnegut,Hill Valley
+693,Bouvard and Pécuchet,Daniel Defoe,Quahog
+694,The Sound and the Fury,Frank Herbert,Quahog
+695,The Sound and the Fury,Jules Verne,Quahog
+696,The Idiot,Cormac McCarthy,Springfield
+697,1984,F. Scott Fitzgerald,Springfield
+698,Sentimental Education,Jules Verne,Springfield
+699,Beloved,Fyodor Dostoevsky,Quahog
+700,The Professor,John Steinbeck,Springfield
+701,Do Androids Dream of Electric Sheep?,Jane Austen,Springfield
+702,The Secret Garden,Toni Morrison,Quahog
+703,The Old Man and the Sea,Homer,Quahog
+704,Great Expectations,Alexandre Dumas,Quahog
+705,Sense and Sensibility,Oscar Wilde,Springfield
+706,Villette,Philip K. Dick,Quahog
+707,Lord of the Flies,William Faulkner,Quahog
+708,East of Eden,Albert Camus,Hill Valley
+709,Slaughterhouse-Five,Frank Herbert,Hill Valley
+710,Great Expectations,William Gibson,Springfield
+711,The Divine Comedy,Ernest Hemingway,Springfield
+712,Mansfield Park,Zora Neale Hurston,Springfield
+713,The Masterpiece,Homer,Quahog
+714,The Old Man and the Sea,Paulo Coelho,Quahog
+715,The War of the Worlds,George Orwell,Hill Valley
+716,The Idiot,John Steinbeck,Hill Valley
+717,Around the World in 80 Days,Oscar Wilde,Springfield
+718,Neuromancer,Joseph Heller,Springfield
+719,Moby Dick,Albert Camus,Hill Valley
+720,Bouvard and Pécuchet,Mary Shelley,Springfield
+721,Notes from Underground,Jules Verne,Springfield
+722,Sentimental Education,Louisa May Alcott,Springfield
+723,Nana,H.G. Wells,Hill Valley
+724,Blood Meridian,George Orwell,Hill Valley
+725,Sense and Sensibility,Frances Hodgson Burnett,Springfield
+726,Beloved,Charles Dickens,Springfield
+727,The War of the Worlds,Philip K. Dick,Springfield
+728,Moby Dick,Nathaniel Hawthorne,Springfield
+729,The Three Musketeers,Margaret Mitchell,Quahog
+730,Do Androids Dream of Electric Sheep?,Frank Herbert,Springfield
+731,Notes from Underground,Oscar Wilde,Quahog
+732,White Fang,Zora Neale Hurston,Quahog
+733,The Catcher in the Rye,Dante Alighieri,Springfield
+734,Robinson Crusoe,Louisa May Alcott,Hill Valley
+735,Of Mice and Men,Herman Melville,Quahog
+736,The Importance of Being Earnest,Herman Melville,Quahog
+737,East of Eden,Charles Dickens,Quahog
+738,Dune,John Steinbeck,Hill Valley
+739,The Stranger,Sylvia Plath,Springfield
+740,The Secret Garden,Stephen Crane,Springfield
+741,Slaughterhouse-Five,Daniel Defoe,Hill Valley
+742,The Count of Monte Cristo,Robert Louis Stevenson,Quahog
+743,The Idiot,Joseph Heller,Springfield
+744,Les Misérables,Kurt Vonnegut,Quahog
+745,East of Eden,Oscar Wilde,Hill Valley
+746,The Brothers Karamazov,Leo Tolstoy,Quahog
+747,Nana,Barbara Kingsolver,Quahog
+748,Crime and Punishment,Alexandre Dumas,Quahog
+749,1984,George Orwell,Springfield
+750,The Count of Monte Cristo,Kurt Vonnegut,Quahog
+751,Robinson Crusoe,Robert Louis Stevenson,Quahog
+752,Sentimental Education,Homer,Springfield
+753,Frankenstein,Leo Tolstoy,Hill Valley
+754,L'Assommoir,Cormac McCarthy,Springfield
+755,The Stranger,William Gibson,Springfield
+756,Catch-22,William Gibson,Quahog
+757,Neuromancer,George Orwell,Springfield
+758,The Catcher in the Rye,Miguel de Cervantes,Quahog
+759,To Kill a Mockingbird,Ernest Hemingway,Hill Valley
+760,The Bell Jar,Oscar Wilde,Quahog
+761,The Trial,Jane Austen,Springfield
+762,The Odyssey,Kurt Vonnegut,Quahog
+763,To Kill a Mockingbird,Louisa May Alcott,Springfield
+764,The Hobbit,Margaret Mitchell,Quahog
+765,Germinal,Robert Louis Stevenson,Quahog
+766,Mansfield Park,Ray Bradbury,Springfield
+767,The Secret Garden,Kurt Vonnegut,Hill Valley
+768,The Professor,George Orwell,Quahog
+769,The Trial,H.G. Wells,Springfield
+770,The Picture of Dorian Gray,Gabriel García Márquez,Quahog
+771,To Kill a Mockingbird,Philip K. Dick,Hill Valley
+772,The Trial,Joseph Heller,Springfield
+773,East of Eden,Albert Camus,Hill Valley
+774,Don Quixote,J.D. Salinger,Springfield
+775,Dracula,Philip K. Dick,Quahog
+776,Moby Dick,Sylvia Plath,Quahog
+777,Lord of the Flies,Sylvia Plath,Quahog
+778,Jane Eyre,Charlotte Brontë,Hill Valley
+779,The Odyssey,Ernest Hemingway,Quahog
+780,The Secret Garden,Stephen Crane,Quahog
+781,War and Peace,William Golding,Hill Valley
+782,The Idiot,Ernest Hemingway,Springfield
+783,The War of the Worlds,Toni Morrison,Hill Valley
+784,Persuasion,Alexandre Dumas,Springfield
+785,The Hobbit,Toni Morrison,Hill Valley
+786,The Picture of Dorian Gray,George Orwell,Hill Valley
+787,Little Women,Margaret Mitchell,Hill Valley
+788,The Odyssey,Kurt Vonnegut,Hill Valley
+789,Rebecca,Victor Hugo,Springfield
+790,The Idiot,Bram Stoker,Hill Valley
+791,Notes from Underground,Robert Louis Stevenson,Springfield
+792,White Fang,Homer,Springfield
+793,Heart of Darkness,Aldous Huxley,Springfield
+794,Heart of Darkness,Cormac McCarthy,Springfield
+795,Robinson Crusoe,F. Scott Fitzgerald,Hill Valley
+796,The Trial,Ursula K. Le Guin,Springfield
+797,Anna Karenina,Stephen Crane,Springfield
+798,The Brothers Karamazov,Stephen Crane,Hill Valley
+799,Brave New World,Ray Bradbury,Hill Valley
+800,The Castle,Barbara Kingsolver,Hill Valley
+801,The Professor,Jane Austen,Hill Valley
+802,Song of Solomon,J.R.R. Tolkien,Hill Valley
+803,The Bell Jar,Miguel de Cervantes,Hill Valley
+804,The Alchemist,Cormac McCarthy,Hill Valley
+805,Daisy Miller,Mary Shelley,Hill Valley
+806,The Castle,William Golding,Quahog
+807,Frankenstein,Ursula K. Le Guin,Quahog
+808,Treasure Island,William Golding,Springfield
+809,The Alchemist,Nathaniel Hawthorne,Quahog
+810,The Brothers Karamazov,Harper Lee,Quahog
+811,Dracula,Ursula K. Le Guin,Springfield
+812,Les Misérables,Dante Alighieri,Hill Valley
+813,Little Women,Frank Herbert,Hill Valley
+814,Their Eyes Were Watching God,Charlotte Brontë,Quahog
+815,Of Mice and Men,Victor Hugo,Hill Valley
+816,The Invisible Man,Sylvia Plath,Springfield
+817,The Red Badge of Courage,Sylvia Plath,Springfield
+818,Jane Eyre,Paulo Coelho,Hill Valley
+819,Beloved,Dante Alighieri,Quahog
+820,Moby Dick,J.D. Salinger,Quahog
+821,The Phantom of the Opera,Frances Hodgson Burnett,Quahog
+822,The Three Musketeers,Kurt Vonnegut,Hill Valley
+823,Daisy Miller,Bram Stoker,Quahog
+824,Dune,Barbara Kingsolver,Springfield
+825,The Alchemist,Stephen Crane,Springfield
+826,Dracula,Miguel de Cervantes,Quahog
+827,Animal Farm,Sylvia Plath,Quahog
+828,Little Women,Daniel Defoe,Quahog
+829,Song of Solomon,Miguel de Cervantes,Springfield
+830,Animal Farm,Harper Lee,Hill Valley
+831,Great Expectations,Daniel Defoe,Hill Valley
+832,Frankenstein,Homer,Springfield
+833,Les Enfants Terribles,Miguel de Cervantes,Quahog
+834,Island,F. Scott Fitzgerald,Hill Valley
+835,The Time Machine,Paulo Coelho,Quahog
+836,Northanger Abbey,Margaret Mitchell,Quahog
+837,Persuasion,Stephen Crane,Hill Valley
+838,Great Expectations,Margaret Mitchell,Hill Valley
+839,Don Quixote,Dante Alighieri,Hill Valley
+840,The Bell Jar,Zora Neale Hurston,Springfield
+841,The Brothers Karamazov,Harper Lee,Quahog
+842,One Hundred Years of Solitude,William Gibson,Quahog
+843,A Scanner Darkly,Gabriel García Márquez,Springfield
+844,The Brothers Karamazov,Charlotte Brontë,Hill Valley
+845,A Scanner Darkly,William Faulkner,Hill Valley
+846,The Scarlet Letter,J.D. Salinger,Springfield
+847,A Tale of Two Cities,Homer,Springfield
+848,The Man in the Iron Mask,Philip K. Dick,Quahog
+849,Notes from Underground,Joseph Heller,Quahog
+850,Robinson Crusoe,William Faulkner,Hill Valley
+851,A Tale of Two Cities,William Golding,Quahog
+852,The Red Badge of Courage,Bram Stoker,Quahog
+853,One Hundred Years of Solitude,Aldous Huxley,Quahog
+854,The Stranger,George Orwell,Springfield
+855,The Secret Garden,Sylvia Plath,Springfield
+856,Emma,Robert Louis Stevenson,Springfield
+857,Brave New World,Frank Herbert,Quahog
+858,Do Androids Dream of Electric Sheep?,J.D. Salinger,Quahog
+859,Heart of Darkness,Jules Verne,Springfield
+860,The Masterpiece,Charles Dickens,Quahog
+861,War and Peace,Charlotte Brontë,Quahog
+862,Brave New World,Paulo Coelho,Springfield
+863,Don Quixote,Dante Alighieri,Springfield
+864,The Secret Garden,George Orwell,Springfield
+865,The Professor,George Orwell,Quahog
+866,Blood Meridian,F. Scott Fitzgerald,Hill Valley
+867,Robinson Crusoe,Stephen Crane,Quahog
+868,Island,Ursula K. Le Guin,Quahog
+869,Neuromancer,Barbara Kingsolver,Hill Valley
+870,A Scanner Darkly,Oscar Wilde,Springfield
+871,Anna Karenina,Cormac McCarthy,Hill Valley
+872,War and Peace,Leo Tolstoy,Hill Valley
+873,The Catcher in the Rye,F. Scott Fitzgerald,Quahog
+874,The Castle,Herman Melville,Quahog
+875,Daisy Miller,Dante Alighieri,Quahog
+876,Notes from Underground,Philip K. Dick,Hill Valley
+877,Persuasion,Ursula K. Le Guin,Springfield
+878,Lord of the Flies,Gabriel García Márquez,Hill Valley
+879,Sentimental Education,Ernest Hemingway,Quahog
+880,The Hobbit,Barbara Kingsolver,Springfield
+881,Slaughterhouse-Five,Leo Tolstoy,Quahog
+882,The Idiot,Oscar Wilde,Hill Valley
+883,Great Expectations,Alexandre Dumas,Quahog
+884,War and Peace,Paulo Coelho,Springfield
+885,Robinson Crusoe,Charlotte Brontë,Quahog
+886,The Masterpiece,Fyodor Dostoevsky,Springfield
+887,Lord of the Flies,Frances Hodgson Burnett,Quahog
+888,Beloved,Jane Austen,Hill Valley
+889,Bouvard and Pécuchet,William Faulkner,Springfield
+890,Of Mice and Men,Margaret Mitchell,Hill Valley
+891,Villette,Ursula K. Le Guin,Springfield
+892,Don Quixote,Paulo Coelho,Quahog
+893,Anna Karenina,Frank Herbert,Quahog
+894,The Idiot,Aldous Huxley,Hill Valley
+895,Twenty Thousand Leagues Under the Sea,Oscar Wilde,Hill Valley
+896,Animal Farm,Albert Camus,Springfield
+897,Their Eyes Were Watching God,F. Scott Fitzgerald,Quahog
+898,Do Androids Dream of Electric Sheep?,Frances Hodgson Burnett,Springfield
+899,The Importance of Being Earnest,William Golding,Springfield
+900,Agnes Grey,H.G. Wells,Springfield
+901,The Trial,Aldous Huxley,Springfield
+902,Of Mice and Men,Jules Verne,Hill Valley
+903,One Hundred Years of Solitude,Fyodor Dostoevsky,Springfield
+904,Sense and Sensibility,Stephen Crane,Springfield
+905,Dracula,Emily Brontë,Springfield
+906,Neuromancer,Gabriel García Márquez,Springfield
+907,The Odyssey,Homer,Quahog
+908,Dune,Gabriel García Márquez,Springfield
+909,The Red Badge of Courage,Leo Tolstoy,Quahog
+910,The Odyssey,Ray Bradbury,Hill Valley
+911,The Three Musketeers,Stephen Crane,Springfield
+912,The Importance of Being Earnest,Alexandre Dumas,Hill Valley
+913,Don Quixote,William Faulkner,Springfield
+914,Frankenstein,J.D. Salinger,Quahog
+915,The Great Gatsby,William Gibson,Springfield
+916,Treasure Island,Ray Bradbury,Hill Valley
+917,The Trial,Frank Herbert,Hill Valley
+918,Catch-22,Victor Hugo,Hill Valley
+919,Northanger Abbey,Robert Louis Stevenson,Springfield
+920,Catch-22,Philip K. Dick,Springfield
+921,Northanger Abbey,Homer,Hill Valley
+922,Nana,Victor Hugo,Springfield
+923,Rebecca,Alexandre Dumas,Hill Valley
+924,Fahrenheit 451,Miguel de Cervantes,Springfield
+925,The Idiot,Sylvia Plath,Hill Valley
+926,The Catcher in the Rye,Charles Dickens,Quahog
+927,The Count of Monte Cristo,Sylvia Plath,Hill Valley
+928,Germinal,Victor Hugo,Quahog
+929,Lord of the Flies,Harper Lee,Hill Valley
+930,Jane Eyre,Alexandre Dumas,Springfield
+931,Blood Meridian,F. Scott Fitzgerald,Springfield
+932,Lord of the Flies,Miguel de Cervantes,Hill Valley
+933,Dracula,Stephen Crane,Hill Valley
+934,The Idiot,Dante Alighieri,Hill Valley
+935,To Kill a Mockingbird,Philip K. Dick,Hill Valley
+936,The Divine Comedy,Leo Tolstoy,Springfield
+937,Frankenstein,J.R.R. Tolkien,Quahog
+938,The Man in the Iron Mask,Ray Bradbury,Hill Valley
+939,Don Quixote,Charlotte Brontë,Springfield
+940,The Red Badge of Courage,John Steinbeck,Quahog
+941,Little Women,Barbara Kingsolver,Springfield
+942,Around the World in 80 Days,Albert Camus,Springfield
+943,Notes from Underground,Paulo Coelho,Hill Valley
+944,Twenty Thousand Leagues Under the Sea,Philip K. Dick,Hill Valley
+945,Nana,Charles Dickens,Quahog
+946,Their Eyes Were Watching God,Daniel Defoe,Quahog
+947,The Hobbit,Toni Morrison,Quahog
+948,The Brothers Karamazov,Frank Herbert,Quahog
+949,The Alchemist,Harper Lee,Hill Valley
+950,Little Women,Oscar Wilde,Springfield
+951,Lord of the Flies,Louisa May Alcott,Quahog
+952,The Idiot,Harper Lee,Hill Valley
+953,The Importance of Being Earnest,Robert Louis Stevenson,Quahog
+954,Wuthering Heights,Oscar Wilde,Quahog
+955,Song of Solomon,Charlotte Brontë,Quahog
+956,Wuthering Heights,John Steinbeck,Hill Valley
+957,The Alchemist,J.D. Salinger,Hill Valley
+958,Persuasion,Charlotte Brontë,Springfield
+959,L'Assommoir,Toni Morrison,Quahog
+960,The Sound and the Fury,Ernest Hemingway,Quahog
+961,War and Peace,Nathaniel Hawthorne,Quahog
+962,One Hundred Years of Solitude,Herman Melville,Hill Valley
+963,The Secret Garden,Paulo Coelho,Springfield
+964,The Castle,Leo Tolstoy,Hill Valley
+965,The Man in the Iron Mask,Harper Lee,Springfield
+966,The Time Machine,J.R.R. Tolkien,Hill Valley
+967,Agnes Grey,William Gibson,Springfield
+968,Sentimental Education,Sylvia Plath,Hill Valley
+969,Daisy Miller,Paulo Coelho,Quahog
+970,The Road,William Faulkner,Springfield
+971,The Picture of Dorian Gray,Mary Shelley,Hill Valley
+972,War and Peace,Charlotte Brontë,Hill Valley
+973,The Odyssey,Joseph Heller,Springfield
+974,The Stranger,H.G. Wells,Hill Valley
+975,Dracula,Victor Hugo,Springfield
+976,Mansfield Park,J.R.R. Tolkien,Hill Valley
+977,The Professor,Nathaniel Hawthorne,Quahog
+978,Frankenstein,Ursula K. Le Guin,Quahog
+979,To Kill a Mockingbird,H.G. Wells,Quahog
+980,Les Enfants Terribles,Zora Neale Hurston,Hill Valley
+981,1984,Aldous Huxley,Quahog
+982,One Hundred Years of Solitude,Toni Morrison,Quahog
+983,The War of the Worlds,Albert Camus,Hill Valley
+984,Dune,Miguel de Cervantes,Hill Valley
+985,The Old Man and the Sea,Aldous Huxley,Hill Valley
+986,Crime and Punishment,Frank Herbert,Springfield
+987,The Red Badge of Courage,Kurt Vonnegut,Springfield
+988,Agnes Grey,George Orwell,Springfield
+989,Northanger Abbey,Herman Melville,Quahog
+990,Great Expectations,Gabriel García Márquez,Springfield
+991,Rebecca,Margaret Mitchell,Springfield
+992,A Scanner Darkly,Emily Brontë,Hill Valley
+993,Les Enfants Terribles,Homer,Hill Valley
+994,Sentimental Education,George Orwell,Quahog
+995,The Alchemist,Margaret Mitchell,Springfield
+996,Blood Meridian,William Golding,Springfield
+997,Crime and Punishment,J.R.R. Tolkien,Hill Valley
+998,Northanger Abbey,Ernest Hemingway,Springfield
+999,Germinal,J.D. Salinger,Quahog
+1000,The Odyssey,Ray Bradbury,Springfield
